@@ -1,22 +1,13 @@
 # Netflix-Content-Analysis
 
 ## Overview
-This project analyzes Netflix content to gain insights into trends, genres, and user preferences. Using datasets from Netflix's publicly available information, it aims to explore patterns in movies, series, and ratings. 
+This repository analyzes Netflix’s content release and viewership trends throughout 2023. It explores key insights, including the peak viewership periods, the impact of specific content releases, and the strategic timing of content launches around holidays and events. The data highlights how Netflix strategically aligns its releases with audience engagement patterns, such as releasing content around New Year’s and Valentine’s Day to maximize viewership. The repository offers visualizations and detailed analysis of viewership hours, release patterns, and trends for both movies and shows.
 
 ## Features
 - Exploratory Data Analysis (EDA) to uncover key insights.
 - Data preprocessing and cleaning pipelines.
 - Visualization of trends, genres, and audience demographics.
-- Predictive modeling for content performance.
 
 ## Tech Stack
 - Python
 
-## Setup
-### Prerequisites
-- Python 3.8 or above
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/DarakhTech/Netflix-Content-Analysis.git
